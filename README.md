@@ -1,4 +1,4 @@
-## Lucas Dallavalle | Estudante de Análise e desenvolvimento de sistemas.
+## Lucas Dallavalle - WebDesigner WordPress | Estudante de Análise e desenvolvimento de sistemas.
 <div align="center">
   <a href="https://github.com/caaslu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caaslu&show_icons=true&theme=dark&include_all_commits=true&count_private=not"/>
