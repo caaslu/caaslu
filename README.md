@@ -11,7 +11,7 @@
   <img align="center" alt="Caaslu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caaslu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caaslu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caaslu-Codepen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
+  <img align="center" alt="Caaslu-Codepen" height="30" width="40" src="https://www.svgrepo.com/show/353582/codepen-icon.svg">
   <img align="center" alt="Caaslu-Netlify" height="30" width="40" src="http://bricksdesign.com.br/wp-content/uploads/2022/04/netlify.svg" >
 </div>
   
